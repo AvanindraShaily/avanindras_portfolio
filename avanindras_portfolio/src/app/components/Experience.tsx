@@ -4,7 +4,7 @@ import ExperienceCard from "./ExperienceCard";
 export default function Experience(){
     return(
        <div>
-            <h5 className="mb-1 text-l font-bold tracking-tight text-slate-200">Education</h5>
+            <h5 className="mb-1 text-l font-bold tracking-tight text-slate-200">Experience</h5>
             <div className="space-y-1">
             {experience.map((expt)=>(
                 <ExperienceCard
