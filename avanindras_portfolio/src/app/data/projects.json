@@ -1,0 +1,37 @@
+[   
+    {
+        "name": "Manga Tracker Application",
+        "description": "Developed a mobile application to track manga reading progress on third party websites. Utilized React Native, as well as Django for the backend APi. Plan on implmenting a scraped repository of manga to allow users to search and select manga. As well as a browser extension to automatically save your progerss.",
+        "technologies": ["React", "Django", "React Native", "JavaScript", "Python", "Web Scraping", "Chrome Extensions"]
+    },
+
+    {
+        "name": "Multi Threaded “Mini-Spark” C Program",
+        "description": "Applied multi-threaded principles to create a functional Apache Spark style program. Utilized semaphores, life cycle functions, and thread functions to prevent deadlocks and maximize parallelization",
+        "technologies": ["C", "Multi-threading", "Makefile", "Linux"]
+    },
+
+    {
+        "name": "Electronic Circuit Simulation Software",
+        "description": "Worked with a team of six engineers to develop software to virtually build and test circuits; leveraged PyQt5 to create a reactive interface that stores data in a MySQL database via SQLAlchemy's database-reflection API; and implemented a CI/CD pipeline using Docker-in-Docker runners on GitLab for automated testing.",
+        "technologies": ["Python", "SQLAlchemy", "PostGreSQL", "Docker", "GitLab CI/CD", "PyQt5"]
+    },
+
+    {
+        "name": "Cat Adoption Web Application",
+        "description": "Coded using React libraries to create a multi-page, responsive, and bootstrapped application for cat adoption; programmed state variables, useEffect, routing, and other concepts to make the website fully responsive.",
+        "technologies": ["React", "Callbacks", "WitAI", "Chat Agents"]
+    },
+
+    {
+        "name": "New Jersey Institute of Technology Brain Connectivity Lab",
+        "description": "Utilized Python, Perl, and MATLAB for large dataset analysis to investigate group-level differences in functional connectivity between fMRI scans of different populations; researched, wrote, and submitted an undergraduate research innovation grant for a study to predict sleep stages using Hidden Markov Models (HMM).",
+        "technologies": ["Python", "Perl", "MATLAB", "Big Data", "fMRI", "TensorFlow", "Keras"]
+    },
+
+    {
+        "name": "Mob Control Style Android Application",
+        "description": "Utilizing Unity and C# to create a Mob Control-style game prototype; conducted market research and is currently implementing a method to tutor ad display schemes to maximize revenue.",
+        "technologies": ["Unity", "C#", "Android", "Game Development", "Market Research"]
+    }
+]
