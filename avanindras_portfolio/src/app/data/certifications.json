@@ -17,8 +17,6 @@
         "date": "Jan 2025"
 
     },
-
-
     {
         "title": "PCPP1 - Certified Professional Python Programmer 1",
         "issuer": "Python Institute",
@@ -31,12 +29,10 @@
         "date": "Mar 2023"
 
     },
-
     {
         "title": "PCEP - Certified Entry-Level Python Programmer",
         "issuer": "Python Institute",
         "date": "Jan 2023"
 
     }
-
 ]

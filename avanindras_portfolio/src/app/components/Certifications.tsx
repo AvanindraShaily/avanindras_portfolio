@@ -1,5 +1,4 @@
 import certifications from "@/app/data/certifications.json";
-import EducationCard from "./EducationCard";
 import CertificationCard from "./CertificationCard";
 
 export default function Certifications() {
