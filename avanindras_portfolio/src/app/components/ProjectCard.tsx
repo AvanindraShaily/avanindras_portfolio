@@ -12,10 +12,18 @@ export default function ProjectCard({
   return (
     <div className="mb-5 max-w-prose flex flex-col">
       <span className="font-semibold">{name}</span>
-      {demo !=="N/A" && (<video src={demo} autoPlay loop muted playsInline className="mb-3 rounded-lg max-w-xl"/>)}
+      {demo !== "N/A" && (
+        <video
+          src={demo}
+          autoPlay
+          loop
+          muted
+          playsInline
+          className="mb-3 rounded-lg max-w-xl"
+        />
+      )}
 
       <p>{description}</p>
-
 
       <div className="flex">
         <span className="mr-1 font-semibold text-sm">Skills:</span>
