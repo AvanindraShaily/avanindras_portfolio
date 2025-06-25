@@ -3,9 +3,9 @@
 export default function About(){
     return(
         <div>
-            <h2 className="mb-2 text-l font-bold tracking-tight text-slate-200">About Me</h2>
+
             <p className = "max-w-prose">
-            M.S in Computer Science candindate at the 
+            M.S in Computer Science student at the 
             University of Wisconsin-Madision. Three years of 
             Healthcare software/health tech experience at Epic Systes and Exact Sciences.  
             Experienced in full-stack development with a focus on NextJS and React.

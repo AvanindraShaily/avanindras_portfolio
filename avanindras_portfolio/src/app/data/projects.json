@@ -1,37 +1,43 @@
 [   
     {
-        "name": "Manga Tracker Application",
-        "description": "Developed a mobile application to track manga reading progress on third party websites. Utilized React Native, as well as Django for the backend APi. Plan on implmenting a scraped repository of manga to allow users to search and select manga. As well as a browser extension to automatically save your progerss.",
-        "technologies": ["React", "Django", "React Native", "JavaScript", "Python", "Web Scraping", "Chrome Extensions"]
-    },
-
-    {
-        "name": "Multi Threaded “Mini-Spark” C Program",
-        "description": "Applied multi-threaded principles to create a functional Apache Spark style program. Utilized semaphores, life cycle functions, and thread functions to prevent deadlocks and maximize parallelization",
-        "technologies": ["C", "Multi-threading", "Makefile", "Linux"]
-    },
-
-    {
-        "name": "Electronic Circuit Simulation Software",
-        "description": "Worked with a team of six engineers to develop software to virtually build and test circuits; leveraged PyQt5 to create a reactive interface that stores data in a MySQL database via SQLAlchemy's database-reflection API; and implemented a CI/CD pipeline using Docker-in-Docker runners on GitLab for automated testing.",
-        "technologies": ["Python", "SQLAlchemy", "PostGreSQL", "Docker", "GitLab CI/CD", "PyQt5"]
-    },
-
-    {
-        "name": "Cat Adoption Web Application",
-        "description": "Coded using React libraries to create a multi-page, responsive, and bootstrapped application for cat adoption; programmed state variables, useEffect, routing, and other concepts to make the website fully responsive.",
-        "technologies": ["React", "Callbacks", "WitAI", "Chat Agents"]
-    },
-
-    {
-        "name": "New Jersey Institute of Technology Brain Connectivity Lab",
-        "description": "Utilized Python, Perl, and MATLAB for large dataset analysis to investigate group-level differences in functional connectivity between fMRI scans of different populations; researched, wrote, and submitted an undergraduate research innovation grant for a study to predict sleep stages using Hidden Markov Models (HMM).",
-        "technologies": ["Python", "Perl", "MATLAB", "Big Data", "fMRI", "TensorFlow", "Keras"]
+        "name": "Web Comic/Reading Tracking Application",
+        "description": "Currently developing a mobile/web application to track web comic reading progress on third-party websites. Built with React Native and Django for the frontend and backend. Plans to implement a repository of varied manga/web comics which would allow users to search and select natively. Have begun progress on developing a browser extension to automatically detect and save your reading progress.",
+        "technologies": ["React", "Django", "React Native", "JavaScript", "Python", "Chrome Extensions"],
+        "demo":"/manga_app_demo.mp4"
     },
 
     {
         "name": "Mob Control Style Android Application",
-        "description": "Utilizing Unity and C# to create a Mob Control-style game prototype; conducted market research and is currently implementing a method to tutor ad display schemes to maximize revenue.",
-        "technologies": ["Unity", "C#", "Android", "Game Development", "Market Research"]
+        "description": "Utilizing Unity and C# to create a Mob Control-style game. Conducted extensive market research to understand the niche and plan for future monetary schemes. Plans to implement dynamic ad display strategies to maximize revenue.",
+        "technologies": ["Unity", "C#", "Android", "Game Development", "Market Research"],
+        "demo":"/unity_game_demo.mp4"
+    },
+
+    {
+        "name": "Electronic Circuit Simulation Software",
+        "description": "Worked with a team of five other engineers to develop software to virtually build and test circuits. Leveraged PyQt5 to create a reactive graphical interface that stored data into a MySQL database via SQLAlchemy's reflection API. Deployed and managed relevant MySQL database in a Docker container. Implemented a CI/CD pipeline using Docker-in-Docker runners on GitLab for automated testing and deployment.",
+        "technologies": ["Python", "SQLAlchemy", "PostGreSQL", "Docker", "GitLab CI/CD", "PyQt5"],
+        "demo":"N/A"
+    },
+
+    {
+        "name": "Multi Threaded “Mini-Spark” C Program",
+        "description": "Applied multithreading principles to create a functional Apache Spark style program. Leveraged semaphores, lifecycle functions, and POSIX thread functions to prevent deadlocks and maximize parallelism.",
+        "technologies": ["C", "Multi-threading", "Makefile", "Linux"],
+        "demo":"N/A"
+    },
+
+    {
+        "name": "Cat Adoption Web Application",
+        "description": "Developed using React libraries to create a multi-page and Bootstrap application for cat adoption; programmed state variables, useEffect, routing, and other concepts to make the website fully responsive.",
+        "technologies": ["React", "Callbacks", "WitAI", "Chat Agents"],
+        "demo":"N/A"
+    },
+
+    {
+        "name": "New Jersey Institute of Technology Brain Connectivity Lab",
+        "description": "Leveraged Python, Perl, and MATLAB for large dataset analysis to investigate group-level differences in functional connectivity between fMRI scans of different populations; researched, wrote, and submitted an undergraduate research innovation grant for a study to predict sleep stages using Hidden Markov Models (HMMs).Leveraged Python, Perl, and MATLAB for large dataset analysis to investigate group-level differences in functional connectivity between fMRI scans of different populations; researched, wrote, and submitted an undergraduate research innovation grant for a study to predict sleep stages using Hidden Markov Models (HMMs).",
+        "technologies": ["Python", "Perl", "MATLAB", "Big Data", "fMRI", "TensorFlow", "Keras"],
+        "demo":"N/A"
     }
 ]
