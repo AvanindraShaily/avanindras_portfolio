@@ -11,7 +11,7 @@ export default function ProjectCard({
 }) {
   return (
     <div className="mb-5 max-w-prose flex flex-col">
-      <span className="font-semibold">{name}</span>
+      <span className="font-semibold">{name + ":"}</span>
       {demo !== "N/A" && (
         <video
           src={demo}

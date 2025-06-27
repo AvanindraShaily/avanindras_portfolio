@@ -6,11 +6,11 @@ import Certifications from "./components/Certifications";
 
 export default function Home() {
   return (
-    <div className="items-left min-h-screen p-16 pb-20 flex flex-col gap-8 sm:p-20 font-[family-name:var(--font-geist-sans)]">
+    <div className="items-left min-h-screen p-16 pb-20 flex flex-col gap-8 sm:p-20 font-inter">
       <Title />
-      <Education />
       <Projects />
       <Experience />
+      <Education />
       <Certifications/>
     </div>
   );
