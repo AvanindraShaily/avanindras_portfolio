@@ -1,22 +1,17 @@
 [
     {
-        "location": "DataAnnotation AI/ML Reviewer - Remote",
-        "dates": "Mar 2025 - Now",
-        "position": "Clinical Lab Scientist",
+        "location": "Remote",
+        "dates": "Mar 2025-Now",
+        "position": "DataAnnotation AI/ML Reviewer",
         "description": "Responsible for analyzing AI-generated responses to coding problems and verifying their validity based on custom parameters including safety, usefulness, and correctness."
     },
 
     {
-        "location": "Exact Sciences - Madison, WI",
-        "dates": "May 2024 - Nov 2024",
-        "position": "Clinical Lab Scientist",
-        "description": "Operated and maintained Cologuard testing equipment to process 300-400 patient samples a day under strict regulation. Troubleshot processes with lab product developers to continuously decrease the error rate of one of our automated machines by > 90%."
-    },
-
-    {
         "location": "Epic Systems - Verona, WI",
-        "dates": "Dec 2021 - Sep 2023",
+        "dates": "Dec 2021-Sep 2023",
         "position": "Technical Services Engineer",
         "description": "Collaborated with multiple teams of software developers and clients to develop community-level reports on topics ranging from diabetes to Medicaid usage for over eight hospital systems. Developed internal tools in VBA to automatically project customer database sizes, reducing projection-creation time by 20%. Worked on the internal sizing team to independently project hardware needs for more than 100 customers. Led the internal VMware pod, ensuring application-specific VM architecture requirements were met."
     }
+
 ]
+

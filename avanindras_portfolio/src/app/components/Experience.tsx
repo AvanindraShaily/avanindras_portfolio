@@ -21,3 +21,14 @@ export default function Experience() {
     </div>
   );
 }
+
+    /*
+
+    {
+        "location": "Exact Sciences - Madison, WI",
+        "dates": "May 2024-Nov 2024",
+        "position": "Clinical Lab Scientist",
+        "description": "Operated and maintained Cologuard testing equipment to process 300-400 patient samples a day under strict regulation. Troubleshot processes with lab product developers to continuously decrease the error rate of one of our automated machines by > 90%."
+    },
+
+    */
